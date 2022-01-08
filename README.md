@@ -57,4 +57,4 @@ The following points were not implemented;
 
 ● Protect the poller from misbehaving services (for example answering really slowly)
 
->>Understanding this probably requires deeper knowledge.
+
