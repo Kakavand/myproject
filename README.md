@@ -41,7 +41,7 @@ Run the Application from the root folder.
 
 Make sure the you can run the database on docker and that you have linked to your IDE.
 
-Make sure that you the database up and running, and maybe also create a table for the constructor in your mysql client.
+Make sure that you the database up and running.
 
 You should be able to access the reactJS based UI at http://localhost:3000/services in your Web browser.
 
